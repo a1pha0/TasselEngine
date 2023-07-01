@@ -1,0 +1,11 @@
+# Folders
+.vs/
+.idea/
+bin/
+bin-int/
+
+# Files
+*.sln
+*.user
+*.filters
+*.vcxproj
